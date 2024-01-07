@@ -23,9 +23,9 @@ gcc	-o	rwmain	main.c	readerwriter.c	-l	pthread
 
 Scenario Starts:
 
-<sup><br>
-Create reader
-Create reader
+<sup>
+Create reader<br>
+Create reader<br>
 Reader's is in... reading
 Create reader
 Reader's is in... reading
