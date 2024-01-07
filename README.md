@@ -1,3 +1,5 @@
+# USF COP 4600 Operating Systems: Project 3
+
 To compile the program:
 - Run make, to compile all the files.
 - Make sure to include main.c in the same directory.
@@ -12,7 +14,10 @@ To run the program:
 $ make
 gcc	-o	rwmain	main.c	readerwriter.c	-l	pthread
  ./rwmain
-Scenario Starts:
+
+Output should look like:
+
+### Scenario Starts:
 Create reader
 Create reader
 Reader's is in... reading
