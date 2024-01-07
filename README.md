@@ -17,7 +17,7 @@ gcc	-o	rwmain	main.c	readerwriter.c	-l	pthread
 
 Output should look like:
 
-### Scenario Starts:
+<sup> Scenario Starts:
 Create reader
 Create reader
 Reader's is in... reading
@@ -42,3 +42,4 @@ Reader's is in... reading
 Finished reading
 Reader's is in... reading
 Finished reading
+</sup>
